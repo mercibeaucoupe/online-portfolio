@@ -47,9 +47,6 @@ const Skills = () => {
 
 	const certifications = [
 		'AWS Certified Developer',
-		'Microsoft Azure Fundamentals',
-		'Google Cloud Platform Associate',
-		'Certified Kubernetes Application Developer',
 	]
 
 	return (

@@ -31,7 +31,7 @@ const Experience = () => {
 
 	const education = [
 		{
-			degree: 'Bachelor of Science in Computer Science',
+			degree: 'Computer Science',
 			school: 'Georgia Institute of Technology',
 			period: '2014 - 2018',
 		},
